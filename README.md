@@ -1,9 +1,9 @@
 # Shooting_Game_ex
 
 ## Tkinter를 이용하여 슈팅게임을 제작하였습니다.
-<br>
+
 [![Video Title](https://img.youtube.com/vi/EJCMoCmOE60/0.jpg)](https://youtu.be/EJCMoCmOE60)
-<br>
+
 
 ## 설명
 ● 게임은 매우 간단한 방식입니다. 가능한 한 오랜 시간동안 버티는 것이 목표입니다.<br>
